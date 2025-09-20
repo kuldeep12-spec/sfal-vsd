@@ -68,7 +68,7 @@
   
   <img width="799" height="260" alt="Screenshot from 2025-09-20 21-46-16" src="https://github.com/user-attachments/assets/f132d70d-8521-4e94-bdc0-581eba7246bf" />
   
-  #magic
+  # magic
   
   $ sudo apt-get install m4
   
